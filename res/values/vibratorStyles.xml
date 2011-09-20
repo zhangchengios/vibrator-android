@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="VibratorHeader">
+        <item name="android:textColor">@color/themeColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+    <style name="CommandName">
+        <item name="android:textColor">@color/themeColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="VibratorTimer">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">40dp</item>
+        <item name="android:enabled">false</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <color name="themeColor">#ff00ee</color>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="command_names">
+		<item>Başla</item>
+		<item>Kapat</item>
+		<item>Yavaş</item>
+		<item>Çabuk</item>
+		<item>{Örüntü Adı}</item>
+		<item>Elle Kontrol</item>
+	</string-array>
+	<string-array name="command_descriptions">
+		<item>Vibratörü açar.</item>
+		<item>Vibratörü kapatır.</item>
+		<item>"Devrede olan örüntünün tüm titreşim ve suskun aralıklarını genişleterek, daha düşük frekansta çalışmasına neden olur. Bir veya daha fazla aralık belirli bir değerden daha geniş ise bu komut etki göstermez.\n\nÖrnek :\nTTTTSSTTSSSS => TTTTTTSSSTTTSSSSSS \n(T : Titreşim, S : Suskun)"</item>
+		<item>"Devrede olan örüntünün tüm titreşim ve suskun aralıklarını daraltarak, daha yüksek frekansta çalışmasına neden olur. Bir veya daha fazla aralık belirli bir değerden daha dar ise bu komut etki göstermez.\n\nÖrnek :\nTTTTSSTTSSSS => TTTSTSSS \n(T : Titreşim, S : Suskun)"</item>
+		<item>"Adı {Örüntü Adı} olan örüntünün seçilmesine neden olur."</item>
+		<item>Ses komutlarını devre dışı bırakır ve elle kontrolü aktif hale getirir.</item>
+	</string-array>
+</resources>
