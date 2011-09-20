@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vibratör</string>
+    <string name="manage_pattern">Örüntüleri Düzenle</string>
+    <string name="list_commands">Komutları Listele</string>
+    <string name="list_of_commands">Ses Komutları</string>
+    <string name="pattern_name">Örüntü Adı : </string>
+    <string name="time_remaining">Kalan Zaman : </string>
+    <string name="timer_default_text">0</string>
+    <string name="manual_controls">Elle Kontrol : </string>
+    <string name="voice_control">Sesle Kontrol : </string>
+    <string name="navigate">Diğer Ekranlar : </string>
+    <string name="capture_pattern">Yeni Örüntü Oluştur : </string>
+    <string name="delete_pattern">Seçili Örüntüyü Sil : </string>
+    <string name="select_capture_duration">Kayıt Süresi (saniye) : </string>
+    <string name="prompt_select_pattern">Örüntü Seçiniz</string>
+    <string name="prompt_select_duration">Süre Seçiniz (saniye)</string>
+    <string name="button_delete">Sil</string>
+    <string name="button_capture_not_capturing">Kayıt işlemini başlatmak için dokunun</string>
+    <string name="button_capture_capturing">Örüntü kaydediliyor...</string>
+    <string name="button_ok">Tamam</string>
+    <string name="button_faster">&gt;&gt;</string>
+    <string name="button_slower">&lt;&lt;</string>
+    <string name="turn_on">Vibratör AÇIK</string>
+    <string name="turn_off">Vibratör KAPALI</string>
+    <string name="voice_commands_on">Ekrana dokunun ve konuşun</string>
+    <string name="voice_commands_off">Sesle kontrol devre dışı</string>
+    <string name="speech_recognition_unavailable">Ses tanıma özelliği kullanılamıyor</string>
+    <string name="speech_recog_prompt">Emredin sahibem!</string>
+    
+    <string name="dialog_title_info">Bilgi</string>
+    <string name="dialog_title_error">Hata</string>
+    <string name="dialog_msg_capture_abort">"'%1$s' adlı örüntünün kayıt işlemi sırasında aktivite arka plana düştüğünden işleme son verildi."</string>
+    <string name="dialog_msg_capture_success">Örüntü kaydedildi.</string>
+    <string name="dialog_msg_delete_success">Örüntü silindi.</string>
+    <string name="dialog_msg_duplicate_name">"'%1$s' adına sahip bir örüntü önceden tanımlanmış."</string>
+    <string name="dialog_msg_pattern_name_missing">Kaydetmek istediğiniz örüntü için isim giriniz.</string>
+    <string name="dialog_msg_pattern_name_too_long">Örüntü isimleri en fazla %1$d karakter uzunluğunda olabilir.</string>
+    <string name="dialog_msg_no_pattern_selected">Silmek istediğiniz örüntüyü seçiniz.</string>
+    <string name="dialog_msg_reserved_name">Ses komutları örüntü isimleri olarak kullanılamaz.</string>
+    <string name="dialog_msg_not_spellable">Örüntü isimleri harfler ve boşluk dışında karakterler içermemelidir.</string>
+    
+    <string name="predefined_pattern_continuous">SÜREKLİ</string>
+    <string name="predefined_pattern_regular">DÜZENLİ</string>
+    
+</resources>

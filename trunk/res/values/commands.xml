@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="command_names">
+		<item>Begin</item>
+		<item>Stop</item>
+		<item>Slow</item>
+		<item>Fast</item>
+		<item>{Pattern Name}</item>
+		<item>Manual</item>
+	</string-array>
+	<string-array name="command_descriptions">
+		<item>Turns the vibrator on.</item>
+		<item>Turns the vibrator off.</item>
+		<item>"Causes the running pattern to run at a decreased frequency as a result of stretching all intervals of the pattern. This command will have no effect if one or more of the intervals are already too large (compared to a hard-coded value).\n\nExample :\nVVVVSSVVSSSS => VVVVVVSSSVVVSSSSSS \n(V : Vibration, S : Silence)"</item>
+		<item>"Causes the running pattern to run at an increased frequency as a result of shrinking all intervals of the pattern. This command will have no effect if one or more of the intervals are already too small (compared to a hard-coded value).\n\nExample :\nVVVVSSVVSSSS => VVVSVSSS \n(V : Vibration, S : Silence)"</item>
+		<item>"Causes the pattern with name {Pattern Name} to be selected."</item>
+		<item>Re-enables manual controls.</item>
+	</string-array>
+</resources>
