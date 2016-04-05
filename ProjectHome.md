@@ -1,0 +1,1 @@
+A vibrator with voice control and user-defined vibration patterns
